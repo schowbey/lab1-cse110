@@ -1,7 +1,9 @@
 # CSE 110 Lab 1
 
+Table of Contents
 - [CSE 110 Lab 1](#cse-110-lab-1)
   - [About Me](#about-me)
+  - [My Work](#my-work)
   - [Fun Facts](#fun-facts)
 
 ## [About Me](#aboutme)
@@ -17,6 +19,17 @@ Some of my favorite classes I've taken at UCSD are:
 
 My goal for this quarter is to
 > **create a final project that I am proud of.**
+
+## [My Work](#mywork)
+Peruse through the images below to see some websites I have designed/created!
+
+![fuel ventures asia](fv-asia.jpg)
+*I interned at a venture capital fund last summer and made their website.*
+
+
+![my portfolio](portfolio.jpg)
+*This is my personal portfolio that I coded! Specicically hye about page*
+
 
 [Click here ](https://github.com/schowbey)to check out my GitHub profile
 
