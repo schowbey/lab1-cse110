@@ -20,7 +20,7 @@ My goal for this quarter is to
 
 [Click here ](https://github.com/schowbey)to check out my GitHub profile
 
-If you want to check out some of my command line experience, [click here](screenshots/git-terminal-2)! 
+If you want to check out some of my command line experience, [click here](screenshots/git-terminal-2.jpg)! 
 
 ## [Fun Facts](#funfacts)
 
